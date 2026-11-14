@@ -46,6 +46,7 @@ Nada más que aportar instrucciones de texto a Claude. No ejecuta código, no ll
 - Pensado para Windows y Power BI Desktop con proyectos `.pbip`; la verificación en local se apoya en el Analysis Services que levanta Desktop.
 - El método se ha aplicado sobre un almacén en SQL Server con gateway; otros orígenes no se han probado.
 - Es documentación de método, sin garantía (ver la licencia). Microsoft cambia los formatos con cada versión de Desktop: pruebe antes de generalizar.
+- Privacidad: el plugin solo contiene texto de instrucciones (una skill). No recoge, guarda ni envía datos personales ni de ningún otro tipo, y no se conecta a ningún servicio externo.
 - Soporte: este plugin se publica tal cual. Contacto: santospanhol@gmail.com · [repositorio](https://github.com/santospanhol-creator/santospanhol-powerbi-method).
 
 ### Marcas
@@ -90,6 +91,7 @@ Nothing beyond giving Claude text instructions. It runs no code, ships no script
 - Designed for Windows and Power BI Desktop with `.pbip` projects; local verification relies on the Analysis Services instance that Desktop starts.
 - The method has been applied to a SQL Server warehouse with a gateway; other sources are untested.
 - This is method documentation, provided without warranty (see the license). Microsoft changes the file formats between Desktop versions: test before generalising.
+- Privacy: the plugin contains instruction text only (one skill). It does not collect, store or transmit personal or any other data, and it connects to no external service.
 - Support: this plugin is published as is. Contact: santospanhol@gmail.com · [repository](https://github.com/santospanhol-creator/santospanhol-powerbi-method).
 
 ### Trademarks
