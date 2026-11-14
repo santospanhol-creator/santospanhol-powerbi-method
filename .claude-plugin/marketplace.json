@@ -1,0 +1,17 @@
+{
+  "name": "santospanhol",
+  "owner": {
+    "name": "Santospanhol, S.L.",
+    "email": "santospanhol@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "santospanhol-powerbi-method",
+      "source": "./",
+      "description": "Reference method for building and reviewing Power BI reports: thin reports over a shared semantic model, star schema, DAX conventions, verification against SQL, publishing and gateway refresh."
+    }
+  ],
+  "metadata": {
+    "description": "Santospanhol, S.L. plugins for Claude: Power BI method."
+  }
+}

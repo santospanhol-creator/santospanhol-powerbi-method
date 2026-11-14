@@ -1,0 +1,25 @@
+{
+  "name": "santospanhol-powerbi-method",
+  "displayName": "Power BI Method (Santospanhol)",
+  "version": "1.1.0",
+  "description": "Reference method for building and reviewing Power BI reports: thin reports over a shared semantic model, star schema, DAX conventions, verification against SQL, publishing and gateway refresh.",
+  "author": {
+    "name": "Santospanhol, S.L.",
+    "url": "https://github.com/santospanhol-creator",
+    "email": "santospanhol@gmail.com"
+  },
+  "homepage": "https://github.com/santospanhol-creator/santospanhol-powerbi-method",
+  "license": "MIT",
+  "keywords": [
+    "power-bi",
+    "dax",
+    "tmdl",
+    "pbir",
+    "data-modeling",
+    "star-schema",
+    "bi",
+    "sql-server"
+  ],
+  "repository": "https://github.com/santospanhol-creator/santospanhol-powerbi-method",
+  "icon": ".claude-plugin/icon.png"
+}
