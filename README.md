@@ -8,6 +8,8 @@
 
 Plugin con una skill, `powerbi-method`, que enseña a Claude un método concreto para construir y revisar informes de Power BI sobre un almacén de datos relacional (SQL Server o similar). No es una herramienta que edite sus modelos: es el criterio sobre qué orden dar, en qué momento y cómo comprobar que el resultado es correcto.
 
+> **¿Prefiere que revisemos su modelo?** Santospanhol, S.L. ofrece la **Auditoría de modelo Power BI**: revisamos su modelo y sus informes con este mismo método. Le entregamos un informe con los problemas ordenados por impacto (cifras que no cuadran, medidas frágiles, rendimiento, refresco) y el plan para corregirlos. Escríbanos a santospanhol@gmail.com con el asunto «Auditoría Power BI».
+
 ### Qué contiene
 
 - **Informes finos sobre un modelo semántico compartido**: el modelo se publica una vez y los informes se conectan a él.
@@ -62,6 +64,8 @@ MIT. Véase `LICENSE`.
 ## English
 
 A plugin with one skill, `powerbi-method`, that teaches Claude a specific method for building and reviewing Power BI reports on a relational data warehouse (SQL Server or similar). It is not a tool that edits your models: it is the judgement about which step to take, when, and how to check that the result is correct. The skill is written in English (Spanish version in `references/es/`); Claude answers in the language you write in.
+
+> **Want us to review your model?** Santospanhol, S.L. offers a **Power BI Model Audit**: we review your model and reports against this same method. You get a written report with the issues ranked by impact (numbers that don't reconcile, fragile measures, performance, refresh) and a plan to fix them. Email santospanhol@gmail.com with the subject "Power BI audit".
 
 ### What it covers
 
